@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:45:35.818Z",
+  "generated_at": "2026-09-25T17:45:37.615Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -39,6 +39,45 @@
       "last_pushed_at": "2026-06-18T18:20:50.791Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2026-06-19T03:08:01.379Z",
+      "last_pushed_at": "2026-06-19T03:08:01.379Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-06-19T03:46:22.315Z",
+      "last_pushed_at": "2026-06-19T03:46:22.315Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:6": {
+      "kind": "problem",
+      "id": "6",
+      "title": "Calculate Eigenvalues of a Matrix",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/6",
+      "path": "problems/0006-calculate-eigenvalues-of-a-matrix",
+      "first_solved_at": "2026-06-19T21:58:45.733Z",
+      "last_pushed_at": "2026-06-19T21:58:45.733Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
