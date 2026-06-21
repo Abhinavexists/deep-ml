@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:45:37.615Z",
+  "generated_at": "2026-09-25T17:45:39.612Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,45 @@
       "last_pushed_at": "2026-06-19T21:58:45.733Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:7": {
+      "kind": "problem",
+      "id": "7",
+      "title": "Matrix Transformation ",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/7",
+      "path": "problems/0007-matrix-transformation",
+      "first_solved_at": "2026-06-21T17:01:09.377Z",
+      "last_pushed_at": "2026-06-21T17:01:09.377Z",
+      "language": "python",
+      "lines": 15
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2026-06-21T17:32:30.408Z",
+      "last_pushed_at": "2026-06-21T17:32:30.408Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:8": {
+      "kind": "problem",
+      "id": "8",
+      "title": "Calculate 2x2 Matrix Inverse",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/8",
+      "path": "problems/0008-calculate-2x2-matrix-inverse",
+      "first_solved_at": "2026-06-21T22:45:37.666Z",
+      "last_pushed_at": "2026-06-21T22:45:37.666Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }
