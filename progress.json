@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:45:47.435Z",
+  "generated_at": "2026-09-25T17:45:49.313Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -182,6 +182,32 @@
       "last_pushed_at": "2026-06-26T23:56:05.289Z",
       "language": "python",
       "lines": 12
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2026-06-27T20:03:44.749Z",
+      "last_pushed_at": "2026-06-27T20:03:44.749Z",
+      "language": "python",
+      "lines": 54
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-06-27T23:52:14.034Z",
+      "last_pushed_at": "2026-06-27T23:52:14.034Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
