@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:45:58.618Z",
+  "generated_at": "2026-09-25T17:46:00.425Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -271,6 +271,65 @@
       "last_pushed_at": "2026-09-17T17:13:44.639Z",
       "language": "python",
       "lines": 13
+    },
+    "math:9": {
+      "kind": "math",
+      "id": "9",
+      "title": "Matrix Basics",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/9",
+      "path": "math/0009-matrix-basics",
+      "first_solved_at": "2026-09-18T06:15:50.329Z",
+      "last_pushed_at": "2026-09-18T06:15:50.329Z"
+    },
+    "math:10": {
+      "kind": "math",
+      "id": "10",
+      "title": "Matrix Multiplication",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/10",
+      "path": "math/0010-matrix-multiplication",
+      "first_solved_at": "2026-09-18T06:18:45.632Z",
+      "last_pushed_at": "2026-09-18T06:18:45.632Z"
+    },
+    "math:8": {
+      "kind": "math",
+      "id": "8",
+      "title": "Vector Norms and Linear Independence",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/math-problems/8",
+      "path": "math/0008-vector-norms-and-linear-independence",
+      "first_solved_at": "2026-09-18T06:24:20.412Z",
+      "last_pushed_at": "2026-09-18T06:24:20.412Z"
+    },
+    "problem:121": {
+      "kind": "problem",
+      "id": "121",
+      "title": "Vector Element-wise Sum",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/121",
+      "path": "problems/0121-vector-element-wise-sum",
+      "first_solved_at": "2026-09-18T06:26:33.646Z",
+      "last_pushed_at": "2026-09-18T06:26:33.646Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:83": {
+      "kind": "problem",
+      "id": "83",
+      "title": "Dot Product Calculator",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/83",
+      "path": "problems/0083-dot-product-calculator",
+      "first_solved_at": "2026-09-18T06:29:08.021Z",
+      "last_pushed_at": "2026-09-18T06:29:08.021Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
