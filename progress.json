@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:46:00.425Z",
+  "generated_at": "2026-09-25T17:46:02.294Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -330,6 +330,32 @@
       "last_pushed_at": "2026-09-18T06:29:08.021Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:328": {
+      "kind": "problem",
+      "id": "328",
+      "title": "Vector Norms (L1/L2/L-inf) and the Frobenius Norm",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/328",
+      "path": "problems/0328-vector-norms-l1-l2-l-inf-and-the-frobenius-norm",
+      "first_solved_at": "2026-09-19T01:14:53.837Z",
+      "last_pushed_at": "2026-09-19T01:14:53.837Z",
+      "language": "python",
+      "lines": 32
+    },
+    "problem:76": {
+      "kind": "problem",
+      "id": "76",
+      "title": "Calculate Cosine Similarity Between Vectors",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/76",
+      "path": "problems/0076-calculate-cosine-similarity-between-vectors",
+      "first_solved_at": "2026-09-19T04:45:33.982Z",
+      "last_pushed_at": "2026-09-19T04:45:33.982Z",
+      "language": "python",
+      "lines": 13
     }
   }
 }
