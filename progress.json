@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:46:06.244Z",
+  "generated_at": "2026-09-25T17:46:07.953Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -406,6 +406,65 @@
       "last_pushed_at": "2026-09-22T14:29:07.633Z",
       "language": "python",
       "lines": 33
+    },
+    "math:18": {
+      "kind": "math",
+      "id": "18",
+      "title": "Descriptive Statistics",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/18",
+      "path": "math/0018-descriptive-statistics",
+      "first_solved_at": "2026-09-23T12:16:48.865Z",
+      "last_pushed_at": "2026-09-23T12:16:48.865Z"
+    },
+    "math:19": {
+      "kind": "math",
+      "id": "19",
+      "title": "Probability Fundamentals",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/19",
+      "path": "math/0019-probability-fundamentals",
+      "first_solved_at": "2026-09-23T12:21:46.824Z",
+      "last_pushed_at": "2026-09-23T12:21:46.824Z"
+    },
+    "math:33": {
+      "kind": "math",
+      "id": "33",
+      "title": "Expectation and Variance Algebra",
+      "difficulty": "easy",
+      "category": "Probability and Statistics for Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/33",
+      "path": "math/0033-expectation-and-variance-algebra",
+      "first_solved_at": "2026-09-23T15:00:21.507Z",
+      "last_pushed_at": "2026-09-23T15:00:21.507Z"
+    },
+    "problem:78": {
+      "kind": "problem",
+      "id": "78",
+      "title": "Descriptive Statistics Calculator",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/78",
+      "path": "problems/0078-descriptive-statistics-calculator",
+      "first_solved_at": "2026-09-23T15:35:02.352Z",
+      "last_pushed_at": "2026-09-23T15:35:02.352Z",
+      "language": "python",
+      "lines": 35
+    },
+    "problem:179": {
+      "kind": "problem",
+      "id": "179",
+      "title": "Expected Value and Variance of an n-Sided Die",
+      "difficulty": "easy",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/179",
+      "path": "problems/0179-expected-value-and-variance-of-an-n-sided-die",
+      "first_solved_at": "2026-09-23T15:40:10.866Z",
+      "last_pushed_at": "2026-09-23T15:40:10.866Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }

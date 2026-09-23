@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**32** solved · 27 problems · 0 labs · 5 math
+**37** solved · 29 problems · 0 labs · 8 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,7 +19,9 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Compute a Gradient with PyTorch Autograd](https://www.deep-ml.com/problems/884) | easy | 2026-06-26 | [solution](problems/0884-compute-a-gradient-with-pytorch-autograd) |
 | [Convert Vector to Diagonal Matrix](https://www.deep-ml.com/problems/35) | easy | 2026-06-21 | [solution](problems/0035-convert-vector-to-diagonal-matrix) |
 | [Derivative of a Polynomial](https://www.deep-ml.com/problems/116) | easy | 2026-09-21 | [solution](problems/0116-derivative-of-a-polynomial) |
+| [Descriptive Statistics Calculator](https://www.deep-ml.com/problems/78) | easy | 2026-09-23 | [solution](problems/0078-descriptive-statistics-calculator) |
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-18 | [solution](problems/0083-dot-product-calculator) |
+| [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-23 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-22 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-07-01 | [solution](problems/0156-implement-swiglu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-06-28 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -44,8 +46,11 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Descriptive Statistics](https://www.deep-ml.com/math-problems/18) | easy | 2026-09-23 | [solution](math/0018-descriptive-statistics) |
+| [Expectation and Variance Algebra](https://www.deep-ml.com/math-problems/33) | easy | 2026-09-23 | [solution](math/0033-expectation-and-variance-algebra) |
 | [Gradient Descent Updates](https://www.deep-ml.com/math-problems/5) | easy | 2026-09-21 | [solution](math/0005-gradient-descent-updates) |
 | [Matrix Basics](https://www.deep-ml.com/math-problems/9) | easy | 2026-09-18 | [solution](math/0009-matrix-basics) |
+| [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-09-23 | [solution](math/0019-probability-fundamentals) |
 | [Vector Operations](https://www.deep-ml.com/math-problems/7) | easy | 2026-09-01 | [solution](math/0007-vector-operations) |
 | [Matrix Multiplication](https://www.deep-ml.com/math-problems/10) | medium | 2026-09-18 | [solution](math/0010-matrix-multiplication) |
 | [Vector Norms and Linear Independence](https://www.deep-ml.com/math-problems/8) | medium | 2026-09-18 | [solution](math/0008-vector-norms-and-linear-independence) |
