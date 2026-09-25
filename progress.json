@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:46:11.622Z",
+  "generated_at": "2026-09-25T17:46:59.296Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -489,6 +489,19 @@
       "path": "math/0001-derivatives-and-gradients",
       "first_solved_at": "2026-09-25T17:46:11.620Z",
       "last_pushed_at": "2026-09-25T17:46:11.620Z"
+    },
+    "problem:44": {
+      "kind": "problem",
+      "id": "44",
+      "title": "Leaky ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/44",
+      "path": "problems/0044-leaky-relu-activation-function",
+      "first_solved_at": "2026-09-25T17:46:58.520Z",
+      "last_pushed_at": "2026-09-25T17:46:58.520Z",
+      "language": "python",
+      "lines": 7
     }
   }
 }
