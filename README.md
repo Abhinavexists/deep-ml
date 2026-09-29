@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**52** solved · 36 problems · 0 labs · 16 math
+**53** solved · 37 problems · 0 labs · 16 math
 
 ![Coverage](./coverage.svg)
 
@@ -24,6 +24,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-09-18 | [solution](problems/0083-dot-product-calculator) |
 | [Empirical Probability Mass Function (PMF)](https://www.deep-ml.com/problems/184) | easy | 2026-09-24 | [solution](problems/0184-empirical-probability-mass-function-pmf) |
 | [Expected Value and Variance of an n-Sided Die](https://www.deep-ml.com/problems/179) | easy | 2026-09-23 | [solution](problems/0179-expected-value-and-variance-of-an-n-sided-die) |
+| [Feature Scaling Implementation](https://www.deep-ml.com/problems/16) | easy | 2026-09-29 | [solution](problems/0016-feature-scaling-implementation) |
 | [Gradient Direction and Magnitude](https://www.deep-ml.com/problems/308) | easy | 2026-09-22 | [solution](problems/0308-gradient-direction-and-magnitude) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-09-26 | [solution](problems/0042-implement-relu-activation-function) |
 | [Implement SwiGLU activation function](https://www.deep-ml.com/problems/156) | easy | 2026-07-01 | [solution](problems/0156-implement-swiglu-activation-function) |
